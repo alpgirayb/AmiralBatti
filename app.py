@@ -327,7 +327,7 @@ def present_turn():
 # todo list games game[]+
 # todo player create apisi yaz [player_id=5] (add/delete/get_by_id/list_all_playes/list_players_of_game)+
 # todo player update-> login to game[player_id=5,game_id=15]
-# todo player -> add choice(burda amcanı çağır)
+# todo player -> add choice
 
 # unit test
 
